@@ -1,0 +1,4 @@
+Usuarios{nome='Larissa', profissao='Estudante', idade=32}
+Usuarios{nome='Joao', profissao='Eletricista', idade=42}
+Usuarios{nome='Marcia', profissao='Cartomante', idade=52}
+Usuarios{nome='Joao', profissao='Marinheiro', idade=27}
