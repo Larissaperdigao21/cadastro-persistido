@@ -1,9 +1,11 @@
 package org.example;
 
+import org.example.Service.UsuarioService;
+
 import java.io.IOException;
 import java.util.Scanner;
 
-public class UsuarioUtil {
+public class Usuario {
 
     public void abrirMenu() throws IOException {
         boolean visto = true;

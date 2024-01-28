@@ -1,4 +1,6 @@
-package org.example;
+package org.example.Service;
+
+import org.example.Model.UsuarioModel;
 
 import java.io.*;
 import java.util.Scanner;

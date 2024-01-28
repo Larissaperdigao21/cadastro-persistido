@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) throws IOException {
 
 
-        UsuarioUtil usuario = new UsuarioUtil();
+        Usuario usuario = new Usuario();
         usuario.abrirMenu();
 
     }
